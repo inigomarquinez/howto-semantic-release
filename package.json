@@ -1,0 +1,18 @@
+{
+  "name": "howto-semantic-release",
+  "version": "1.0.0",
+  "description": "POC to use semantic-release to create and publish releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "semantic-release",
+    "release"
+  ],
+  "author": "Íñigo Marquínez Prado",
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^23.0.0"
+  }
+}
