@@ -25,10 +25,10 @@ jobs:
           disable-sudo: true
           egress-policy: block
           allowed-endpoints: >
+            api.github.com:443
             github.com:443
             registry.npmjs.org:443
-            api.github.com:443
-            nodejs.org:443
+            tuf-repo-cdn.sigstore.dev:443
 
       - name: ⚙️ Git Checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
