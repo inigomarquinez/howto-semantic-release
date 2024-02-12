@@ -1,0 +1,22 @@
+{
+  "name": "@inigomarquinez/howto-semantic-release",
+  "version": "1.0.0",
+  "description": "POC to use semantic-release to create and publish releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "keywords": [
+    "semantic-release",
+    "release"
+  ],
+  "author": "Íñigo Marquínez Prado",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^18.6.0",
+    "@commitlint/config-conventional": "^18.6.0",
+    "husky": "^9.0.10",
+    "semantic-release": "^23.0.2"
+  }
+}
