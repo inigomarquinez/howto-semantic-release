@@ -1,3 +1,11 @@
+## [1.1.4](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.3...v1.1.4) (2024-02-13)
+
+
+### fix
+
+* add repository property to package.json ([6a6af6e](https://github.com/inigomarquinez/howto-semantic-release/commit/6a6af6e506574b583c5dedb9a69da9e6b91b3a91))
+* add repository property to package.json ([ecdb966](https://github.com/inigomarquinez/howto-semantic-release/commit/ecdb966a446f18d7640350b85d0832f3b3e5d805))
+
 ## [1.1.3](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.2...v1.1.3) (2024-02-13)
 
 
