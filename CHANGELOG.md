@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.2...v1.1.3) (2024-02-13)
+
+
+### ci
+
+* harden runner egress-policy to audit ([b188c03](https://github.com/inigomarquinez/howto-semantic-release/commit/b188c03400c11ed274a86e47971bdca84a45d59f))
+* harden runner egress-policy to audit ([3aa93bf](https://github.com/inigomarquinez/howto-semantic-release/commit/3aa93bfe22c5162f952b6475c3bd0b2d28128678))
+
 ## [1.1.2](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.1...v1.1.2) (2024-02-13)
 
 
