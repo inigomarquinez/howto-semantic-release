@@ -22,14 +22,15 @@ jobs:
       - name: 🔐 Harden Runner
         uses: step-security/harden-runner@63c24ba6bd7ba022e95695ff85de572c04a18142 # v2.7.0
         with:
-          disable-sudo: true
-          egress-policy: block
-          allowed-endpoints: >
-            api.github.com:443
-            fulcio.sigstore.dev:443
-            github.com:443
-            registry.npmjs.org:443
-            tuf-repo-cdn.sigstore.dev:443
+          egress-policy: audit
+          # disable-sudo: true
+          # egress-policy: block
+          # allowed-endpoints: >
+          #   api.github.com:443
+          #   fulcio.sigstore.dev:443
+          #   github.com:443
+          #   registry.npmjs.org:443
+          #   tuf-repo-cdn.sigstore.dev:443
 
       - name: ⚙️ Git Checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
