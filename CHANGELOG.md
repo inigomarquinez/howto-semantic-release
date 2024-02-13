@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.0.0...v1.1.0) (2024-02-13)
+
+
+### feat
+
+* add npm config file ([03bc5c9](https://github.com/inigomarquinez/howto-semantic-release/commit/03bc5c9916e3d06c5fcd62d22bc11f66d88fba38))
+* add npm config file ([4030f90](https://github.com/inigomarquinez/howto-semantic-release/commit/4030f906369b1ddbab8177df69e81b305505e2bc))
+
 # 1.0.0 (2024-02-13)
 
 
