@@ -1,3 +1,11 @@
+## [1.1.5](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.4...v1.1.5) (2024-02-13)
+
+
+### ci
+
+* use reusable workflow to release ([56faf2b](https://github.com/inigomarquinez/howto-semantic-release/commit/56faf2b4971b5e675c34248f9281e8958ced0815))
+* use reusable workflow to release ([4cf22ec](https://github.com/inigomarquinez/howto-semantic-release/commit/4cf22ecc923cbe305f46fbcaaa8c62955281359c))
+
 ## [1.1.4](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.3...v1.1.4) (2024-02-13)
 
 
