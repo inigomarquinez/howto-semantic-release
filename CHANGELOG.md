@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.1...v1.1.2) (2024-02-13)
+
+
+### docs
+
+* add additional resources for using semantic-release ([7fdb420](https://github.com/inigomarquinez/howto-semantic-release/commit/7fdb4201c623505051887f6b053425089503be54))
+* add additional resources for using semantic-release with GitHub Actions ([a92a87a](https://github.com/inigomarquinez/howto-semantic-release/commit/a92a87a4a694db0f08f7ca25510720fc30093e6d))
+
 ## [1.1.1](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.0...v1.1.1) (2024-02-13)
 
 
