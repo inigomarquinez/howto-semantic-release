@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.1.0...v1.1.1) (2024-02-13)
+
+
+### fix
+
+* harden runner allowed-endpoints ([ccce9ba](https://github.com/inigomarquinez/howto-semantic-release/commit/ccce9ba4326f5d28010da5b7a590ee10165d1983))
+* harden runner allowed-endpoints ([704c374](https://github.com/inigomarquinez/howto-semantic-release/commit/704c374ade5a09e0ceda6b7342a5f615c488202d))
+
 # [1.1.0](https://github.com/inigomarquinez/howto-semantic-release/compare/v1.0.0...v1.1.0) (2024-02-13)
 
 

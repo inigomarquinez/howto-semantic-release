@@ -1,6 +1,6 @@
 {
   "name": "@inigomarquinez/howto-semantic-release",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "POC to use semantic-release to create and publish releases",
   "main": "index.js",
   "scripts": {
