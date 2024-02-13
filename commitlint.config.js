@@ -1,4 +1,4 @@
-const automaticCommitPattern = /^chore\(release\):.*\[skip ci]/;
+const automaticCommitPattern = /^release\(version\):.*\[skip ci]/;
 
 module.exports = {
   extends: [
