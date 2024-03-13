@@ -2,6 +2,7 @@
   "name": "@inigomarquinez/howto-semantic-release",
   "version": "1.1.5",
   "description": "POC to use semantic-release to create and publish releases",
+  "type": "module",
   "main": "index.js",
   "repository": {
     "type": "git",

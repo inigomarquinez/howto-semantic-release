@@ -1,6 +1,6 @@
 const automaticCommitPattern = /^release\(version\):.*\[skip ci]/;
 
-module.exports = {
+export default {
   extends: [
     '@commitlint/config-conventional'
   ],
