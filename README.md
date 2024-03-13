@@ -1,6 +1,8 @@
 # howto-semantic-release
 
-POC to use semantic-release to create and publish releases
+
+> [!NOTE]
+> POC to use [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to create and publish releases.
 
 
 ## 🔗 Useful links
